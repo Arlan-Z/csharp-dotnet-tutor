@@ -1,0 +1,14 @@
+/home/arlan/dotnet-tutor/bin/Debug/net8.0/dotnet-tutor
+/home/arlan/dotnet-tutor/bin/Debug/net8.0/dotnet-tutor.deps.json
+/home/arlan/dotnet-tutor/bin/Debug/net8.0/dotnet-tutor.runtimeconfig.json
+/home/arlan/dotnet-tutor/bin/Debug/net8.0/dotnet-tutor.dll
+/home/arlan/dotnet-tutor/bin/Debug/net8.0/dotnet-tutor.pdb
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.GeneratedMSBuildEditorConfig.editorconfig
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.AssemblyInfoInputs.cache
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.AssemblyInfo.cs
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.csproj.CoreCompileInputs.cache
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.dll
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/refint/dotnet-tutor.dll
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.pdb
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/dotnet-tutor.genruntimeconfig.cache
+/home/arlan/dotnet-tutor/obj/Debug/net8.0/ref/dotnet-tutor.dll
